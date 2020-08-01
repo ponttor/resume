@@ -1,0 +1,54 @@
+<meta charset="UTF-8">
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Resume</title>
+  </head>
+
+  <body>
+
+    <div id="header">
+        
+            <h1> 
+                Илларионов Александр
+            </h1>
+          
+            <h2 class="header-title"> 
+                Веб-разработчик
+            </h2>
+
+         <p class="center">
+            <a href="mailto:alex@heimstudio.ru">alex@heimstudio.ru</a>
+            <a href="https://heimstudio.ru">heimstudio.ru</a>
+         </p>
+
+      </div>
+      
+      <div id="main">
+        <p>Я увлекаюсь вэб разработкой, начинаю с маленьких сайтов, потом беру чуть побольше, потом еще больше и так дохожу до больших проектов</p>
+        <h2 class="leftline"> Опыт работы </h2>
+        <p>
+            <h2 class="header-title"> Scype  </h2><br>
+            Стажировка в команде Frontend <i>март 2021 - сентябрь 2021</i><br>
+            <ul>
+                <li>Создание проекта</li> 
+                <li>Работа с другим проектом</li> 
+                <li>Работа еще с одним проектом</li> 
+            </ul>
+
+        </p>
+        <h2 class="leftline"> Образоване</h2>
+        <p>описание образования</p>
+        <h2 class="leftline"> Другие навыки</h2>
+        <p>описание других навыков</p>
+
+      </div>
+
+      <div id="footer">
+        <p class="center">
+            Илларионов Александр <br>
+            Mlynske Nivy 82C <a href="mailto:alex@heimstudio.ru">alex@heimstudio.ru</a>
+        </p>
+      </div>
+    </body>
+  </html>
